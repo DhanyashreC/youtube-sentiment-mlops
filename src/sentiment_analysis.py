@@ -1,3 +1,6 @@
+import sys
+sys.stdout.reconfigure(encoding="utf-8")
+
 import pandas as pd
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 

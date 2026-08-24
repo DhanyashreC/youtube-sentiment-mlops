@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load sentiment results
-df = pd.read_csv("data/sentiment_results.csv")
+df = pd.read_csv("data/cleaned_sentiment_results.csv")
 
 # Count sentiments
 sentiment_counts = df["sentiment"].value_counts()
