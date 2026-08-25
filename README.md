@@ -182,8 +182,3 @@ Store analysis history in a database
 
 Dhanyashree C
 
-
-### After pasting it
-Save the file and check how it looks in VS Code's **Markdown Preview** (`Ctrl + Shift + V`).
-
-Then our next strong step can be **deploying the dashboard online** so you can put a live
