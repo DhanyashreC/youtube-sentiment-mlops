@@ -50,9 +50,7 @@ print("Starting YouTube Sentiment Analysis Pipeline...\n")
 
 
 # Get user input
-user_input = input(
-    "Enter YouTube Video URL or Video ID: "
-).strip()
+user_input = input( "Enter YouTube Video URL or Video ID: ").strip()
 
 
 # Extract Video ID
