@@ -183,8 +183,6 @@ Store analysis history in a database
 Dhanyashree C
 
 
-🔥 Bro, this README already makes the project look much more **professional and GitHub-ready**.
-
 ### After pasting it
 Save the file and check how it looks in VS Code's **Markdown Preview** (`Ctrl + Shift + V`).
 
