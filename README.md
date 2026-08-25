@@ -178,7 +178,8 @@ Support larger numbers of comments
 Deploy the Streamlit application to the cloud
 Add advanced machine learning models
 Store analysis history in a database
-👩‍💻 Author
 
+
+👩‍💻 Author
 Dhanyashree C
 
